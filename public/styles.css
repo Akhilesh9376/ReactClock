@@ -1,0 +1,30 @@
+body {
+    font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+    color: #fff;
+    padding: 50px;
+    /* background-color: #374954; */
+    background-color: #e056fd;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 110px;
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  button {
+    background-color: #4834d4;
+    border: 0;
+    border-radius: 50px;
+    box-shadow: 5px;
+    margin: 10px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+  }
+  
